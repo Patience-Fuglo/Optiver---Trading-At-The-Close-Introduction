@@ -1,18 +1,5 @@
-# macOS / Python / Jupyter
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
-
-# Envs
-.env
-.venv/
 venv/
-
-# Data (don’t commit big/raw datasets)
-data/
-kaggle/
-.kaggle/
-
-# CSVs: ignore by default, but keep the curated ones we want
-*.csv
-!submissions/*.csv
+.venv/
