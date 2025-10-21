@@ -7,9 +7,6 @@ The notebook builds a fully reproducible pipeline for generating a valid submiss
 
 Although the competition is closed, this project serves as a learning and portfolio example in quantitative finance, time-series modeling, and Kaggle pipeline engineering.
 
----
-# Optiver — Trading at the Close (Baseline)
-
 A clean, verified **baseline solution** for the Kaggle competition **Optiver — Trading at the Close**.  
 This notebook builds a fully reproducible pipeline that generates a valid submission using a simple but solid approach:
 
@@ -22,7 +19,6 @@ This notebook builds a fully reproducible pipeline that generates a valid submis
 - Submission verifier for clean `submission_verified.csv`
 
 ---
-
 ## Model Logic
 
 1. Load training data: `train.csv`
